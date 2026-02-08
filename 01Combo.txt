@@ -1,5 +1,5 @@
 Consideraciones:
-https://github.com/koki81pe/PROMTPRE/tree/main
+https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/Consideraciones.txt
 Modo de trabajo:
 https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/SkillModoTrabajo.md
 Standard:
