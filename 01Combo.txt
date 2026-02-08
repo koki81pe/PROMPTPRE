@@ -1,0 +1,8 @@
+Consideraciones:
+https://github.com/koki81pe/PROMTPRE/tree/main
+Modo de trabajo:
+https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/SkillModoTrabajo.md
+Standard:
+https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/Standard.txt
+Ejemplo de HTML:
+https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/Ejemplo.html
