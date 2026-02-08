@@ -1,15 +1,11 @@
 PRIMERO ALGUNAS CONSIDERACIONES
 Modo de trabajo:
-Seguir los lineamientos de SkillModoTrabajo.md:
-https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/SkillModoTrabajo.md
+Seguir los lineamientos de SkillJobMode. Ver en Knowledge en repositorio PROMPTPRE
+
 Pregúntame si tienes alguna duda o necesitas información; pero no me preguntes si necesitas revisar información de las fuentes a las que tienes acceso, salvo que estas creas que están desactualizadas a para lo que se necesita.
 
 Programación modulada:
-Seguir los lineamientos de Standard V5 desde:
-Github en zStandard:
-https://raw.githubusercontent.com/koki81pe/PROMTPRE/refs/heads/main/Standard.txt
-Google Doc:
-https://docs.google.com/document/d/1vbbaAPpTN9nQed_OOtoQBIp9K3PfNn5wgXWhNELAhqA/export?format=pdf
+Seguir los lineamientos de Standard. Ver en Knowledge en repositorio PROMPTPRE
 
 REQUERIMIENTO:
 Remodular los códigos a presentar, cumpliendo los lineamientos del protocolo del documento Standard V5.
