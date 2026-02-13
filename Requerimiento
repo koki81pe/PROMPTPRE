@@ -16,3 +16,12 @@ Y así como se puede crear un deber desde Horario Semanal, se tendría que poder
 Este nuevo “modal no enquistado” permitirá crear un nuevo deber desde otros subtab y permitirá volver al subtab del que vino luego de guardar.
 
 Esquema: He planteado un esquema adjunto al Knowledge como “Registro Deberes.pdf”
+
+SUGERENCIA:
+Revisa primero SkillModoTrabajo.md, Standard.txt y los ejemplos.
+
+Luego en el repositorio PBEcontrol:
+Revisa primero zEstructuraBasic y zEstructuraFull
+Después revisa todos los códigos de todos los archivos.
+
+Ya con esa información analizada podremos conversar.
