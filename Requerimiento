@@ -1,10 +1,9 @@
 REQUERIMIENTO:
-Corregir problemas en Calendario.
+Actualización:
 
-1. Tareas:
-En las celdas se muestran los deberes de Evaluaciones y Lecturas; pero no se muestran los deberes de Tareas.
-Es necesario que también se muestren.
+Tengo un problema, las actualizaciones no se reflejan en el momento en otras pestañas u otros elementos.
+En algunos casos en el propio tab no se ven o al cambiar de subtab.
 
-2. Actualización:
-Cuando creo un nuevo deber no se ve en las celdas del Calendario.
-Quizá la solución sería ejecutar una actualización al Guardar, Editar o eliminar.
+Por ejemplo:
+Si agrego un curso, una clase en el horario de clase, una actividad o deber en el horario semanal, un deber en el tab de deberes, un deber en el Calendario, etc, no se refleja al momento en otros lados.
+No se ven las nuevas opciones en los desplegables, horarios, calendarios, etc.
